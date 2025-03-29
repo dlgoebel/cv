@@ -1,6 +1,6 @@
 # Curriculum vitae
 
-Please find here [my CV](https://github.com/dlgoebel/cv/blob/main/20220421_David_Goebel_CV.pdf), along with some toy examples of my work in R:
+Please find here [my CV](https://github.com/dlgoebel/cv/blob/main/20250329_David_Goebel_CV.pdf), along with some toy examples of my work in R:
 
 [An Equal Risk Contribution asset allocation strategy](https://github.com/dlgoebel/cv/blob/main/ERCPortfolio.md) which outperforms the 60/40 benchmark using volatility and covariance forecasts
 
